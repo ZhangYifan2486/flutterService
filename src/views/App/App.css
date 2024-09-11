@@ -1,0 +1,13 @@
+.Main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background: linear-gradient(360deg, #747bff90 0%, #efefef 100% );
+}
+
+.divide {
+  height: 5vh;
+}
